@@ -1,0 +1,16 @@
+References
+
+[1]https://www.openstreetmap.org/search?query=london#map=12/51.5086/-0.1258&layers=N
+[2]https://mapzen.com/data/metro-extracts/your-extracts/a5c751975c71
+[3]https://en.wikipedia.org/wiki/London[4]
+[4]http://wiki.openstreetmap.org/wiki/Map_Features
+[5]http://wiki.openstreetmap.org/wiki/OSM_XML
+[6]https://docs.python.org/2.0/lib/matching-searching.html
+[7]https://docs.python.org/2/library/collections.html#collections.defaultdict
+[8]https://docs.python.org/2/library/re.html
+[9]https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/
+[10]https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+[11]http://stackoverflow.com/questions/2887878/importing-a-csv-file-into-a-sqlite3-database-table-using-python
+[12]http://stackoverflow.com/questions/6318126/why-do-you-need-to-create-a-cursor-when-querying-a-sqlite-database
+[13]https://www.techonthenet.com/sqlite/subqueries.php
+[14]https://discussions.udacity.com/

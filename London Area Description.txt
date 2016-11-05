@@ -1,0 +1,16 @@
+
+I've chosen to practice my data wrangling skills to London UK map area dataset, since it's a city where I would like to live and work some day soon, and this is the perfect chance to get to know it a bit better. 
+
+
+London UK - Wiki
+
+London is the capital and most populous city of England and the United Kingdom. It was founded by the Romans, who named it Londinium.  As a Nylonkong metropolis, London is a leading global city, in the arts, commerce, education, entertainment, fashion, finance, healthcare, media, professional services, research and development, tourism, and transport. It is one of the world's leading financial centres and has the fifth- or sixth-largest metropolitan area GDP in the world. London is the world's most-visited city as measured by international arrivals and has the world's largest city airport system measured by passenger traffic. London's universities form the largest concentration of higher education institutes in Europe, and a 2014 report placed it first in the world university rankings. In 2012, London became the only city to host the modern Summer Olympic Games three times.
+
+London has a diverse range of people and cultures, and more than 300 languages are spoken in the region.[38] Its estimated mid-2015 municipal population (corresponding to Greater London) was 8,673,713, the largest of any city in the European Union, and accounting for 12.5 per cent of the UK population.[40] London's urban area is the second most populous in the EU, after Paris, with 9,787,426 inhabitants at the 2011 census.
+
+London contains four World Heritage Sites: the Tower of London; Kew Gardens; the site comprising the Palace of Westminster, Westminster Abbey, and St Margaret's Church; and the historic settlement of Greenwich (in which the Royal Observatory, Greenwich marks the Prime Meridian, 0° longitude, and GMT).[45] Other famous landmarks include Buckingham Palace, the London Eye, Piccadilly Circus, St Paul's Cathedral, Tower Bridge, Trafalgar Square, and The Shard. 
+
+Links
+
+https://mapzen.com/data/metro-extracts/your-extracts/a5c751975c71
+https://en.wikipedia.org/wiki/London
